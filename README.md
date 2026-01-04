@@ -14,7 +14,7 @@ GAN-based multi-source image super-resolution.
 
 ## Implementation
 Core model implementation is provided in:
-https://github.com/你的账号/dl-multisource-super-resolution-core
+https://github.com/mazhengdong/dl-multisource-super-resolution-core.git
 
 ## Author
 - First Author & Core Algorithm Developer
