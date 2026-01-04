@@ -1,6 +1,6 @@
 # GAN-based Multi-source Image Super-Resolution with Multi-constraint Learning (Paper 2)
 
-This repository corresponds to the second first-author research project on **GAN-based multi-source image super-resolution**, focusing on incorporating **multi-source physical and auxiliary constraints** to improve reconstruction accuracy and spatial consistency.
+This repository corresponds to a **first-author** research project on **GAN-based multi-source image super-resolution**, focusing on incorporating **multi-source physical and auxiliary constraints** to improve reconstruction accuracy and spatial consistency.
 
 ## Overview
 
@@ -49,5 +49,3 @@ Experimental results demonstrate that incorporating multi-source constraints sig
 ## Citation
 
 If you find this work useful, please cite the corresponding paper.
-
-
